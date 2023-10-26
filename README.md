@@ -18,8 +18,11 @@ Through rigorous research, design, and testing, the project aims to pave the way
 
 Skills:
 . Research and Analysis 
+
 · Problem Solving 
+
 · Critical Thinking 
+
 · Project Management
 
 How it Works?
@@ -30,6 +33,6 @@ Ionic Thruster Hardware Model Pictures:
 
 ![IONIC THRUSTER](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/79cdbe2a-f605-4e62-a830-419808d82d6b)
 
-I got 2 nd position, and prize money.
+I hold 2nd position, and got prize money.
 
 ![FRIST RUNNER UP](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/f8b99eda-6c1a-4624-a202-921763b0994d)
