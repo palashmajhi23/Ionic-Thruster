@@ -24,7 +24,7 @@ Skills:
 
 
 ![image](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/a8d6f9e6-dd2d-4b81-a7e7-a9270ed0f35b)
-![image](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/5dacc8b2-ecac-4862-9e1b-1b52e81b7b83)
+
 
 ![IONIC THRUSTER](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/79cdbe2a-f605-4e62-a830-419808d82d6b)
 
