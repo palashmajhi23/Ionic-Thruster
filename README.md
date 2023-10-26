@@ -22,10 +22,14 @@ Skills:
 · Critical Thinking 
 · Project Management
 
+How it Works?
 
 ![image](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/a8d6f9e6-dd2d-4b81-a7e7-a9270ed0f35b)
 
+Ionic Thruster Hardware Model Pictures:
 
 ![IONIC THRUSTER](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/79cdbe2a-f605-4e62-a830-419808d82d6b)
+
+I got 2 nd position, and prize money.
 
 ![FRIST RUNNER UP](https://github.com/palashmajhi23/Ionic-Thruster/assets/128633751/f8b99eda-6c1a-4624-a202-921763b0994d)
