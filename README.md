@@ -17,6 +17,7 @@ Through rigorous research, design, and testing, the project aims to pave the way
 
 
 Skills:
+
 . Research and Analysis 
 
 · Problem Solving 
